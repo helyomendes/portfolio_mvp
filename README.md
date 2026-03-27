@@ -1,6 +1,6 @@
 # 🚀 Portfólio - Hélio Mendes
 
-**PARTE 1** Construção do MVP (Produto Mínimo viável).
+**PARTE 1** Construção do MVP (Produto Mínimo viável).  
 **Desenvolvedor Back-end | Contador | Professor | Estudante de Tecnologia em Sistema para Internet**  
 **Pós-Graduando em Arquitetura de Software pela FIAP**
 
