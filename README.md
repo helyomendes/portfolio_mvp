@@ -61,6 +61,11 @@ O portfólio foi desenvolvido com abordagem **Mobile-First** e se adapta a:
 
 **Hélio Mendes**
 
+* 🎓 **Pós-Graduando:** Arquitetura de Software pela **FIAP**.
+* 🎓 **Graduando:** Tecnologia em Sistemas para Internet.
+* 📊 **Expertise:** Regras de negócio complexas, sistemas financeiros e escalabilidade.
+* 🏫 **Docência:** Experiência em compartilhar conhecimento e estruturar processos de aprendizado.
+
 - 🔗 [GitHub](https://github.com/helyomendes)
 - 🔗 [LinkedIn](https://linkedin.com/in/helyomendes)
 
